@@ -7,3 +7,9 @@ Welcome! This IPython notebook provides a quick look at short segments of data f
 * Your plots will appear at the <a href='#PSD,-Whitened-Data,-and-Spectrogram'>bottom of the page</a>.
 
 v0.4; November 2016
+
+<a href='http://mybinder.org:/repo/losc-tutorial/quickview_linear'>Launch
+binder to try it now.</a>
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/losc-tutorial/quickview_linear)
+
